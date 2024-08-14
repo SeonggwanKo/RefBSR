@@ -2,7 +2,7 @@
 
 
 This page contains the official implementation of the following paper:
-> **Robust Reference-based Super-Resolution via C2-Matching**<br>
+> **Reference-based Burst Super-resolution**<br>
 > Seonggwan Ko, Yeong Jun Koh, Donghyeon Cho<br>
 > ACM Multimedia (**MM**), 2024<br>
 
