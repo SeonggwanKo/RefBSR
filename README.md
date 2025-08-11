@@ -8,8 +8,8 @@ This page contains the official implementation of the following paper:
 
 -----------
 ### Dataset
-Click [here](https://drive.google.com/drive/folders/16__BYH8u4EQOefP-XpmULqWcXbYPdKRL) to download the dataset
-We provide two datasets: the real RefBSR dataset and the synthetic RefBSR dataset.
-Our dataset loader is adapted from the [BurstSR dataset code](https://github.com/goutamgmb/deep-burst-sr), with the primary modification in the method used to load reference images.
+Click [here](https://drive.google.com/drive/folders/16__BYH8u4EQOefP-XpmULqWcXbYPdKRL) to download the dataset.  
+We provide two datasets: the real RefBSR dataset and the synthetic RefBSR dataset.  
+Our dataset loader is adapted from the [BurstSR dataset code](https://github.com/goutamgmb/deep-burst-sr), with the primary modification in the method used to load reference images.  
 
 ### The code will be released soon.
